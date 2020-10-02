@@ -1,5 +1,5 @@
 NultyParametr local_run.bat 
-PrnviParametr  
+PrvniParametr  == 234;
 Local date is [2019-03-02 20:17:22.105] 
  Volume in drive C has no label.
  Volume Serial Number is 74AD-2F1E
